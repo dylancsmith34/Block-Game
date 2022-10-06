@@ -1,4 +1,4 @@
-# Block-Game In C#, (Work in Progress)
+# Block-Game In C#,
 This is a Block Game I made.
 
 The letters I chose for this game spell out my whole first name and first initial with the number one at the end.
