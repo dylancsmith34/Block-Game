@@ -6,4 +6,4 @@ I will next make the assets images for the blocks so they can be fully displayed
 
 Think of this game like Tetris but unique and way harder, the game grid is smaller, the blocks are in no order, there are different blocks so there are not many spaces where the blocks can easily fit into, and progressively gets faster over a way shorter amount of time. This game is impossible.
 
-In the future I will be making the game grid different shapes.
+In the future I will be making the game grid different shapes to make the game even harder.
